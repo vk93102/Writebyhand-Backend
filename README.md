@@ -1,6 +1,6 @@
 # ✍️ WriteByHand.in
 
-> **India's #1 Free Text-to-Handwriting Conversion Platform** — Transforming typed content into photorealistic handwritten documents with multi-language support, intelligent typography simulation, and HD export pipelines.
+> **India's  Free Text-to-Handwriting Conversion Platform** — Transforming typed content into photorealistic handwritten documents with multi-language support, intelligent typography simulation, and HD export pipelines.
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python)](https://python.org)
 [![Django](https://img.shields.io/badge/Django-4.2-092E20?style=flat-square&logo=django)](https://djangoproject.com)
