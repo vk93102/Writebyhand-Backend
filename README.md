@@ -11,6 +11,8 @@
 
 ## 📋 Table of Contents
 
+- [Project Links](#-project-links)
+- [Backend Repository Note](#-backend-repository-note)
 - [Project Overview](#-project-overview)
 - [Core Feature Matrix](#-core-feature-matrix)
 - [System Architecture](#️-system-architecture)
@@ -30,6 +32,19 @@
 - [Environment Variables](#-environment-variables)
 - [Deployment](#-deployment)
 - [Contributing](#-contributing)
+
+---
+
+## 🔗 Project Links
+
+- Frontend Repository: https://github.com/vk93102/HandtotextAI-Frontend
+- Backend Repository: https://github.com/vk93102/HandtotextAI-Backend
+- Demo Video: https://drive.google.com/file/d/1wkw9F5njJeNiZ_bltCMBCbArgOQmcg1q/view?usp=sharing
+
+## 🧩 Backend Repository Note
+
+This repository contains backend services and APIs for the project.
+Frontend code is maintained separately in the frontend repository linked above.
 
 ---
 
